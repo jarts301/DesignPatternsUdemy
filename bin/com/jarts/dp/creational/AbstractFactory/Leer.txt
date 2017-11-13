@@ -1,0 +1,5 @@
+Donde se necesitan colecciones de clases similares pero sin especificar el tipo de clase.
+Centralizar el punto de creacion de los objetos, sin importar su tipo.
+Simplifica el codigo cliente
+Extender el sistema es mucho mas facil.
+En el ejemplo, un Factory por cada familia de objetos, SQL o NoSQL.
